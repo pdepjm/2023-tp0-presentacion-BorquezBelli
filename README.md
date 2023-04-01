@@ -10,7 +10,7 @@ _Mi nombre completo es larguisimo, igual siempre me llamaron Joaquin_
 - Legajo: 2026545
 - Soy técnico electrónico 🤓
 - Este soy yo 👇 (capaz que no elegí la mejor foto)
-![foto campeón del mundo](fotojoa.jpg "campeón del mundo")
+![foto campeón del mundo](0.jpg "campeón del mundo")
 
 ---
 
